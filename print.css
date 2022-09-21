@@ -1,0 +1,14 @@
+.print p
+{
+font-family: arial;
+line-height: 25px;
+color: blue;
+}
+.print h2
+{
+      color: red;
+}
+.print :nth-last-of-type(1)
+{
+      display: none;
+}

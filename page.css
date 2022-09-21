@@ -1,0 +1,21 @@
+/* remove the comments of code for output */
+/* for all pages */
+/* @page 
+{
+      margin:10px;
+      size:;
+}*/
+
+/* for right pages only means only odd-pages(1,3,5) */
+/* @page:first 
+{
+      margin:10px;
+      size:landscape;
+} */
+
+/* for left pages only means only even-pages(2,4,6) */
+/* @page:first 
+{
+      margin:10px;
+      size:A4;
+}
